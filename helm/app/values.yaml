@@ -5,7 +5,7 @@
 replicaCount: 3
 
 image:
-  repository: jsair0412/test:52
+  repository: jsair0412/test:53
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
